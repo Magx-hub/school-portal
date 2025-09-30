@@ -6,7 +6,7 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vitejs.dev/config/
 export default defineConfig({
   // GitHub Pages configuration
-  base: process.env.NODE_ENV === 'production' ? '/school-portal/' : '/',
+  base: '/',
   plugins: [
     react(),
     tailwindcss(),
