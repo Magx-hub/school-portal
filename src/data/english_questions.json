@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the capital of Ghana?",
+      "options": ["Accra", "Kumasi", "Tamale", "Takoradi"],
+      "answer": "Accra"
+    },
+    {
+      "id": 2,
+      "question": "Which of these is a vowel?",
+      "options": ["B", "C", "A", "D"],
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "question": "What is 5 + 3?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "8"
+    },
+    {
+      "id": 4,
+      "question": "Which word is a noun?",
+      "options": ["Run", "Jump", "Table", "Sing"],
+      "answer": "Table"
+    },
+    {
+      "id": 5,
+      "question": "What color is the sky on a clear day?",
+      "options": ["Green", "Blue", "Red", "Yellow"],
+      "answer": "Blue"
+    },
+    {
+      "id": 6,
+      "question": "How many continents are there?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7"
+    },
+    {
+      "id": 7,
+      "question": "Which animal is known as the 'King of the Jungle'?",
+      "options": ["Tiger", "Elephant", "Lion", "Giraffe"],
+      "answer": "Lion"
+    },
+    {
+      "id": 8,
+      "question": "What is 10 - 4?",
+      "options": ["4", "5", "6", "7"],
+      "answer": "6"
+    },
+    {
+      "id": 9,
+      "question": "Which of these is a fruit?",
+      "options": ["Carrot", "Potato", "Apple", "Onion"],
+      "answer": "Apple"
+    },
+    {
+      "id": 10,
+      "question": "What is the color of grass?",
+      "options": ["Blue", "Red", "Green", "Yellow"],
+      "answer": "Green"
+    },
+    {
+      "id": 11,
+      "question": "How many legs does a spider have?",
+      "options": ["6", "8", "10", "12"],
+      "answer": "8"
+    },
+    {
+      "id": 12,
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "answer": "Mars"
+    },
+    {
+      "id": 13,
+      "question": "What do bees make?",
+      "options": ["Milk", "Honey", "Bread", "Cheese"],
+      "answer": "Honey"
+    },
+    {
+      "id": 14,
+      "question": "Which is bigger: an elephant or a mouse?",
+      "options": ["Mouse", "Elephant", "Same size", "Depends"],
+      "answer": "Elephant"
+    },
+    {
+      "id": 15,
+      "question": "What is 2 × 3?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "6"
+    }
+  ]
+}

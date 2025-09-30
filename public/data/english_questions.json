@@ -1,0 +1,307 @@
+{
+  "class": "Basic 7",
+  "subject": "English Language",
+  "strand": "Oral Language",
+  "questions": [
+    {
+      "id": 1,
+      "question": "In formal conversation, which greeting is most appropriate?",
+      "options": ["Hey, what's up?", "Good morning, Sir.", "Yo, chale!", "Hi there!"],
+      "answer": "Good morning, Sir."
+    },
+    {
+      "id": 2,
+      "question": "Which register would you use when speaking to your teacher?",
+      "options": ["Slang", "Informal", "Formal", "Casual"],
+      "answer": "Formal"
+    },
+    {
+      "id": 3,
+      "question": "Which of these is an example of everyday discourse?",
+      "options": ["Reading a poem", "Writing a report", "Asking for directions", "Listening to a story"],
+      "answer": "Asking for directions"
+    },
+    {
+      "id": 4,
+      "question": "Listening comprehension mainly involves:",
+      "options": ["Guessing answers", "Memorising speeches", "Understanding spoken texts", "Speaking fluently"],
+      "answer": "Understanding spoken texts"
+    },
+    {
+      "id": 5,
+      "question": "Which sound is a short vowel?",
+      "options": ["/a:/ in 'car'", "/ɪ/ in 'sit'", "/ɔ:/ in 'ball'", "/u:/ in 'food'"],
+      "answer": "/ɪ/ in 'sit'"
+    },
+    {
+      "id": 6,
+      "question": "The ability to identify main ideas from spoken text shows:",
+      "options": ["Speaking skills", "Listening skills", "Reading skills", "Writing skills"],
+      "answer": "Listening skills"
+    },
+    {
+      "id": 7,
+      "question": "Which of these is a diphthong?",
+      "options": ["/aɪ/ in 'time'", "/e/ in 'pen'", "/o/ in 'dog'", "/i:/ in 'see'"],
+      "answer": "/aɪ/ in 'time'"
+    },
+    {
+      "id": 8,
+      "question": "Asking, 'Could you please help me find the library?' shows:",
+      "options": ["Impoliteness", "Formal register", "Slang", "Informal tone"],
+      "answer": "Formal register"
+    },
+    {
+      "id": 9,
+      "question": "Everyday conversation is important because it helps learners:",
+      "options": ["Memorise stories", "Practise grammar only", "Communicate effectively", "Write better poems"],
+      "answer": "Communicate effectively"
+    },
+    {
+      "id": 10,
+      "question": "Which of these is the odd one out in oral communication?",
+      "options": ["Listening", "Speaking", "Reading", "Pronouncing"],
+      "answer": "Reading"
+    },
+       {
+      "id": 11,
+      "question": "The main purpose of reading comprehension is to:",
+      "options": ["Copy notes", "Understand and interpret texts", "Memorise passages", "Write poems"],
+      "answer": "Understand and interpret texts"
+    },
+    {
+      "id": 12,
+      "question": "What does summarising a passage mean?",
+      "options": ["Expanding it", "Retelling in your own words", "Copying word-for-word", "Ignoring main points"],
+      "answer": "Retelling in your own words"
+    },
+    {
+      "id": 13,
+      "question": "Which of these is a comprehension strategy?",
+      "options": ["Guessing blindly", "Skipping words", "Predicting outcomes", "Memorising sentences"],
+      "answer": "Predicting outcomes"
+    },
+    {
+      "id": 14,
+      "question": "Which of these questions checks comprehension?",
+      "options": ["What is 2 + 2?", "What is the main idea of the passage?", "Write your name.", "Draw a tree."],
+      "answer": "What is the main idea of the passage?"
+    },
+    {
+      "id": 15,
+      "question": "Reading fluently means:",
+      "options": ["Reading slowly and hesitantly", "Reading with speed, accuracy, and expression", "Reading without punctuation", "Reading silently"],
+      "answer": "Reading with speed, accuracy, and expression"
+    },
+    {
+      "id": 16,
+      "question": "A summarised passage should:",
+      "options": ["Include unnecessary details", "Be longer than the original", "Be short and capture main ideas", "Contain all examples"],
+      "answer": "Be short and capture main ideas"
+    },
+    {
+      "id": 17,
+      "question": "“Scanning” in reading means:",
+      "options": ["Reading everything slowly", "Looking quickly for specific details", "Reading aloud", "Memorising lines"],
+      "answer": "Looking quickly for specific details"
+    },
+    {
+      "id": 18,
+      "question": "Which of these is an example of text structure?",
+      "options": ["Grammar", "Cause and effect", "Pronunciation", "Drawing"],
+      "answer": "Cause and effect"
+    },
+    {
+      "id": 19,
+      "question": "Reading to enjoy a story is called:",
+      "options": ["Intensive reading", "Extensive reading", "Critical reading", "Skimming"],
+      "answer": "Extensive reading"
+    },
+    {
+      "id": 20,
+      "question": "Which question tests summarising skills?",
+      "options": ["Write the passage in your own words", "List every sentence in the text", "Copy the passage neatly", "Answer all questions"],
+      "answer": "Write the passage in your own words"
+    },
+        {
+      "id": 21,
+      "question": "Which word is a noun?",
+      "options": ["Run", "Beautiful", "Teacher", "Quickly"],
+      "answer": "Teacher"
+    },
+    {
+      "id": 22,
+      "question": "Which is a pronoun?",
+      "options": ["Boy", "She", "Run", "House"],
+      "answer": "She"
+    },
+    {
+      "id": 23,
+      "question": "Identify the adjective: 'The tall building collapsed.'",
+      "options": ["Tall", "Building", "Collapsed", "The"],
+      "answer": "Tall"
+    },
+    {
+      "id": 24,
+      "question": "Which sentence uses a verb correctly?",
+      "options": ["The girl sings sweetly.", "The girl sweet.", "The girl beautiful.", "The girl quickly."],
+      "answer": "The girl sings sweetly."
+    },
+    {
+      "id": 25,
+      "question": "Choose the adverb:",
+      "options": ["Slowly", "Book", "Child", "Chair"],
+      "answer": "Slowly"
+    },
+    {
+      "id": 26,
+      "question": "Which is a conjunction?",
+      "options": ["And", "Run", "Quickly", "Beautiful"],
+      "answer": "And"
+    },
+    {
+      "id": 27,
+      "question": "Identify the correct punctuation:",
+      "options": ["How are you.", "How are you?", "How are you!", "How are you"],
+      "answer": "How are you?"
+    },
+    {
+      "id": 28,
+      "question": "Which sentence is correctly capitalised?",
+      "options": ["my name is Ama.", "My name is ama.", "My Name Is Ama.", "My name is Ama."],
+      "answer": "My name is Ama."
+    },
+    {
+      "id": 29,
+      "question": "Which of these is vocabulary related to education?",
+      "options": ["Classroom", "Mango", "Football", "River"],
+      "answer": "Classroom"
+    },
+    {
+      "id": 30,
+      "question": "Which clause is dependent?",
+      "options": ["Because it rained", "The boy ran", "She laughed", "They played"],
+      "answer": "Because it rained"
+    },
+        {
+      "id": 31,
+      "question": "Which of these is a cohesive device?",
+      "options": ["And", "Cat", "Book", "Table"],
+      "answer": "And"
+    },
+    {
+      "id": 32,
+      "question": "Which is a type of writing?",
+      "options": ["Narrative", "Eating", "Sleeping", "Jumping"],
+      "answer": "Narrative"
+    },
+    {
+      "id": 33,
+      "question": "The main purpose of descriptive writing is:",
+      "options": ["To explain a process", "To describe vividly", "To persuade", "To summarise"],
+      "answer": "To describe vividly"
+    },
+    {
+      "id": 34,
+      "question": "Which sentence shows chronological order?",
+      "options": ["He woke up, brushed his teeth, and went to school.", "He brushed his teeth after school.", "He slept in the morning.", "He woke up yesterday."],
+      "answer": "He woke up, brushed his teeth, and went to school."
+    },
+    {
+      "id": 35,
+      "question": "A letter to a friend is a/an:",
+      "options": ["Informal letter", "Formal letter", "Official document", "Report"],
+      "answer": "Informal letter"
+    },
+    {
+      "id": 36,
+      "question": "Which of these is an expository writing topic?",
+      "options": ["My Best Friend", "How to Make Banku", "A Visit to the Zoo", "The Haunted House"],
+      "answer": "How to Make Banku"
+    },
+    {
+      "id": 37,
+      "question": "Narrative writing involves:",
+      "options": ["Explaining steps", "Telling a story", "Describing food", "Listing words"],
+      "answer": "Telling a story"
+    },
+    {
+      "id": 38,
+      "question": "Which of these is the best topic sentence?",
+      "options": ["School is very important in life.", "School", "Important", "Life"],
+      "answer": "School is very important in life."
+    },
+    {
+      "id": 39,
+      "question": "Which writing skill links sentences smoothly?",
+      "options": ["Cohesion", "Spelling", "Punctuation", "Copying"],
+      "answer": "Cohesion"
+    },
+    {
+      "id": 40,
+      "question": "A good paragraph must have:",
+      "options": ["One word", "A topic sentence, supporting details, conclusion", "Only examples", "Only quotations"],
+      "answer": "A topic sentence, supporting details, conclusion"
+    },
+        {
+      "id": 41,
+      "question": "Literature mainly deals with:",
+      "options": ["Facts and figures", "Creative imagination", "Scientific formulae", "Mathematics"],
+      "answer": "Creative imagination"
+    },
+    {
+      "id": 42,
+      "question": "Which is a genre of literature?",
+      "options": ["Drama", "Painting", "Singing", "Football"],
+      "answer": "Drama"
+    },
+    {
+      "id": 43,
+      "question": "Which of these is a poem?",
+      "options": ["A narrative", "A sonnet", "A speech", "A report"],
+      "answer": "A sonnet"
+    },
+    {
+      "id": 44,
+      "question": "A story with imaginary characters is called:",
+      "options": ["Fiction", "Non-fiction", "Biography", "History"],
+      "answer": "Fiction"
+    },
+    {
+      "id": 45,
+      "question": "A play written for stage performance is:",
+      "options": ["Novel", "Drama", "Poem", "Essay"],
+      "answer": "Drama"
+    },
+    {
+      "id": 46,
+      "question": "The lesson from a story is called:",
+      "options": ["Plot", "Theme", "Character", "Setting"],
+      "answer": "Theme"
+    },
+    {
+      "id": 47,
+      "question": "Who is the protagonist in a story?",
+      "options": ["The main character", "The side character", "The villain only", "The author"],
+      "answer": "The main character"
+    },
+    {
+      "id": 48,
+      "question": "Which is an example of a figure of speech?",
+      "options": ["Simile", "Chapter", "Page", "Paragraph"],
+      "answer": "Simile"
+    },
+    {
+      "id": 49,
+      "question": "Which of these lines shows personification?",
+      "options": ["The sun smiled at us.", "The boy ran fast.", "The girl is kind.", "The river is big."],
+      "answer": "The sun smiled at us."
+    },
+    {
+      "id": 50,
+      "question": "Poetry is different from prose because it often uses:",
+      "options": ["Rhyme and rhythm", "Chapters", "Paragraphs", "Headings"],
+      "answer": "Rhyme and rhythm"
+    }
+  ]
+}
